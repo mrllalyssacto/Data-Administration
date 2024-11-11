@@ -27,7 +27,7 @@ $result = executeQuery($query);
     <style>
         body {
             background-color: #f8f9fa;
-            font-family: 'Helvetica Neue', sans-serif;
+            font-family: 'Arial', sans-serif;
         }
 
         .navbar {
